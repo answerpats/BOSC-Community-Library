@@ -13,6 +13,7 @@ A curated index of open-source educational resources for community members.
 | 3 | Linux Command Line Basics | Intermediate | [broken-link-here](http://www.linuxcommand.org/broken) | ❌ Broken |
 | 4 | Open Source Licensing Guide | Legal | [Choose a License](https://choosealicense.com) | ✅ Active |
 | 5 | Contributing to Open Source | Intermediate | [First Contributions](https://firstcontributions.github.io) | ✅ Active |
+| 6 | Python for Everybody | Beginner | [py4e-broken](https://www.py4e.com/this-page-does-not-exist) | ❌ Broken |
 
 ---
 
