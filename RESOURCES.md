@@ -37,9 +37,16 @@ A curated index of open-source educational resources for community members.
 | 2 | Keep a Changelog | Changelog format guide | [keepachangelog.com](https://keepachangelog.com) |
 | 3 | Semantic Versioning | Versioning standard | [semver.org](https://semver.org) |
 
+## 🌍 Localized Language Support
+
+| # | Language | Resource Name | Link |
+|---|----------|---------------|------|
+| 1 | Swahili | GNU/Linux Guide (Swahili) | [Kilimanjaro Project](https://sw.wikipedia.org/wiki/GNU/Linux) |
+| 2 | Luganda | Computing Terms in Luganda | [BOSC Wiki](https://github.com/answerpats/BOSC-Community-Library/wiki) |
+
 ---
 
-## 🌍 Community & Events
+## 📅 Community & Events
 
 > **Note:** This section is currently empty. Community events and meetup resources will be added soon.
 
