@@ -10,10 +10,10 @@ A curated index of open-source educational resources for community members.
 |---|-------|----------|------|--------|
 | 1 | Introduction to Open Source | Beginner | [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/) | ✅ Active |
 | 2 | GitHub for Beginners | Beginner | [GitHub Docs](https://docs.github.com/en/get-started) | ✅ Active |
-| 3 | Linux Command Line Basics | Intermediate | [broken-link-here](http://www.linuxcommand.org/broken) | ❌ Broken |
+| 3 | Linux Command Line Basics | Intermediate | [LinuxCommand.org](http://www.linuxcommand.org) | ✅ Active |
 | 4 | Open Source Licensing Guide | Legal | [Choose a License](https://choosealicense.com) | ✅ Active |
 | 5 | Contributing to Open Source | Intermediate | [First Contributions](https://firstcontributions.github.io) | ✅ Active |
-| 6 | Python for Everybody | Beginner | [py4e-broken](https://www.py4e.com/this-page-does-not-exist) | ❌ Broken |
+| 6 | Python for Everybody | Beginner | [Python for Everybody](https://www.py4e.com) | ✅ Active |
 
 ---
 
