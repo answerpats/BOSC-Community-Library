@@ -24,6 +24,8 @@ A curated index of open-source educational resources for community members.
 | 1 | Git | Version Control | [git-scm.com](https://git-scm.com) | ✅ Active |
 | 2 | VS Code | Code Editor | [code.visualstudio.com](https://code.visualstudio.com) | ✅ Active |
 | 3 | Node.js | JavaScript Runtime | [nodejs.org](https://nodejs.org) | ✅ Active |
+| 4 | Docker | Containerization | [docker.com](https://www.docker.com) | ✅ Active |
+| 5 | PostgreSQL | Relational Database | [postgresql.org](https://www.postgresql.org) | ✅ Active |
 
 ---
 
