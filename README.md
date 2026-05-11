@@ -9,7 +9,7 @@ This repository serves as a centralized hub for community resources, documentati
 - `.github/`: Issue and Pull Request templates.
 - `CODE_OF_CONDUCT.md`: Standards for community behavior.
 - `CONTRIBUTING.md`: Technical instructions for contributors.
-- `docs/`: Legal analysis and sustainability strategies.
+- `docs/`: Legal analysis, sustainability strategies, and proposals.
 
 ## Getting Started
 To contribute to this project, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
