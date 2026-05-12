@@ -25,4 +25,15 @@ Our contribution history spans 6 days, demonstrating an iterative development li
 - **GitHub Profile**: [https://github.com/answerpats](https://github.com/answerpats)
 - **Commit History**: Consistent daily activity visible in the `master` branch.
 
-*Note: Screenshots for the final portfolio should be taken from the GitHub UI using the links provided above.*
+1. Repository Root:
+![Repository Root](docs/screenshots/1.png)
+
+2. Commit History:
+![Commit History](docs/screenshots/2.png)
+3. Closed Issues:
+![Closed Issues](docs/screenshots/3.png)
+
+4. Merged Pull Requests:
+![Merged Pull Requests](docs/screenshots/4.png)
+5. GitHub Contribution Graph:
+![GitHub Contribution Graph](docs/screenshots/5.png)
