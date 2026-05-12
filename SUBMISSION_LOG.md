@@ -19,6 +19,7 @@ Our contribution history spans 6 days, demonstrating an iterative development li
 | #6 | Feature Enhancement | Add Localized Language Support section | [PR #7](https://github.com/answerpats/BOSC-Community-Library/pull/7) | ✅ Merged |
 | #9 | Feature Enhancement | Add CLI resource search tool | [PR #10](https://github.com/answerpats/BOSC-Community-Library/pull/10) | ✅ Merged |
 | #11 | Maintenance | Reorganize repository into `docs/` folder | [PR #12](https://github.com/answerpats/BOSC-Community-Library/pull/12) | ✅ Merged |
+| #13 | Maintenance | Add Security Policy, Changelog, and Usage docs | [PR #14](https://github.com/answerpats/BOSC-Community-Library/pull/14) | ✅ Merged |
 
 ## Proof of Participation
 - **GitHub Profile**: [https://github.com/answerpats](https://github.com/answerpats)
